@@ -1,17 +1,15 @@
 .curator {
 
     &__container {
-
-        width: 100%;
         background-color: rgba( 0, 182, 193, .5);
         border-radius: 1rem;
-
         display: flex;
         align-items: center;
         justify-content: center;
         flex-direction: row;
-        margin-bottom: 4rem;
-
+        margin-bottom: 6rem;
+        margin-top: 6rem;
+        width: 100%;
     }
 
     &__photo {

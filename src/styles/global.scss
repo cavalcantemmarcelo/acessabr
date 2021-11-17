@@ -19,6 +19,7 @@ body {
     margin: 0;
 }
 
+.footer,
 .main {
 
     &__wrapper {
@@ -29,6 +30,7 @@ body {
         justify-content: center;
     }
 
+    
     &__container {
         width: 100%;
         max-width: 120rem;

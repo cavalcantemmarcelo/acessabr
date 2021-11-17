@@ -1,5 +1,5 @@
 import React from 'react'
-import './styles.scss'
+import './curator.scss'
 import curatorPhoto from '../../images/marcelo-cavalcante.png'
 
 function CuratorItem() {
