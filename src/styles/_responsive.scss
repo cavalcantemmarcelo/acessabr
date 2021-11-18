@@ -1,0 +1,19 @@
+$mobileLarge: 425px;
+$mobileSmall: 300px;
+$desktop: 1023px; //max width
+
+@media (max-width: $desktop){
+    
+    .hide-mobile {
+        display: none;
+    }
+
+}
+
+@media (min-width: 1024px) {
+
+    .hide-desktop {
+        display: none;
+    }
+    
+}
