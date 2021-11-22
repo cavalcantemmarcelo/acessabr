@@ -1,0 +1,116 @@
+{
+    "places": [
+        {
+           "id": 1,
+           "name": "Museu da Língua Portuguesa",
+           "image": "/places/museu-da-lingua-portuguesa.png",
+           "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+           "location": {
+               "lat": "01234",
+               "long": "4321"
+           },
+           "facilities":  [
+                   { "item": 1, "status": true },
+                   { "item": 2, "status": false },
+                   { "item": 3, "status": true },
+                   { "item": 4, "status": true },
+                   { "item": 5, "status": true },
+                   { "item": 6, "status": true },
+                   { "item": 7, "status": true },
+                   { "item": 8, "status": true },
+                   { "item": 9, "status": true },
+                   { "item": 10, "status": true }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Mercado Municipal" ,
+            "image": "/places/marcado-municipal-sp.png",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "location": {
+                "lat": "01234",
+                "long": "4321"
+            },
+            "facilities":  [
+                    { "item": 1, "status": true },
+                    { "item": 2, "status": true },
+                    { "item": 3, "status": true },
+                    { "item": 4, "status": true },
+                    { "item": 5, "status": true },
+                    { "item": 6, "status": true },
+                    { "item": 7, "status": true },
+                    { "item": 8, "status": true },
+                    { "item": 9, "status": true },
+                    { "item": 10, "status": true }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Auditório  Ibirapuera",
+            "image": "/places/auditorio-ibirapuera.png",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "location": {
+                "lat": "01234",
+                "long": "4321"
+            },
+            "facilities": [
+                    { "item": 1, "status": true },
+                    { "item": 2, "status": true },
+                    { "item": 3, "status": true },
+                    { "item": 4, "status": true },
+                    { "item": 5, "status": true },
+                    { "item": 6, "status": true },
+                    { "item": 7, "status": true },
+                    { "item": 8, "status": true },
+                    { "item": 9, "status": true },
+                    { "item": 10, "status": true }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Museu de Artes de São Paulo",
+            "image": "/places/masp.png",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "location": {
+                "lat": "01234",
+                "long": "4321"
+            },
+            "facilities":  [
+                    { "item": 1, "status": true },
+                    { "item": 2, "status": true },
+                    { "item": 3, "status": true },
+                    { "item": 4, "status": true },
+                    { "item": 5, "status": true },
+                    { "item": 6, "status": true },
+                    { "item": 7, "status": true },
+                    { "item": 8, "status": true },
+                    { "item": 9, "status": true },
+                    { "item": 10, "status": true }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Parque Independência",
+            "image": "/places/parque-independecia.png",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "location": {
+                "lat": "01234",
+                "long": "4321"
+            },
+            "facilities": [
+                    { "item": 1, "status": true },
+                    { "item": 2, "status": true },
+                    { "item": 3, "status": true },
+                    { "item": 4, "status": true },
+                    { "item": 5, "status": true },
+                    { "item": 6, "status": true },
+                    { "item": 7, "status": true },
+                    { "item": 8, "status": true },
+                    { "item": 9, "status": true },
+                    { "item": 10, "status": true }
+            ]
+        }
+        
+    ]
+
+}
