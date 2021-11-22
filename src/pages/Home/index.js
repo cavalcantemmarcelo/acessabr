@@ -7,9 +7,9 @@ import { useParams } from 'react-router'
 import { LocationContext } from '../../contexts/LocationContext'
 
 const PLACES = [
-    'Mercado',
-    'Museu',
-    'Parque',
+    'Mercados',
+    'Museus',
+    'Parques',
     'Todos'
 ]
 
