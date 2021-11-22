@@ -4,6 +4,7 @@
            "id": 1,
            "name": "Museu da Língua Portuguesa",
            "image": "/places/museu-da-lingua-portuguesa.png",
+           "category": "Museu",
            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
            "location": {
                "lat": "01234",
@@ -26,6 +27,7 @@
             "id": 2,
             "name": "Mercado Municipal" ,
             "image": "/places/marcado-municipal-sp.png",
+            "category": "Mercado",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
             "location": {
                 "lat": "01234",
@@ -48,6 +50,7 @@
             "id": 3,
             "name": "Auditório  Ibirapuera",
             "image": "/places/auditorio-ibirapuera.png",
+            "category": "Teatro",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
             "location": {
                 "lat": "01234",
@@ -70,6 +73,7 @@
             "id": 4,
             "name": "Museu de Artes de São Paulo",
             "image": "/places/masp.png",
+            "category": "Museu",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
             "location": {
                 "lat": "01234",
@@ -92,6 +96,7 @@
             "id": 5,
             "name": "Parque Independência",
             "image": "/places/parque-independecia.png",
+            "category": "Parque",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
             "location": {
                 "lat": "01234",

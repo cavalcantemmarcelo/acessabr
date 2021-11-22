@@ -3,7 +3,6 @@
     &__container {
         width: 100%;
         max-width: 222px;
-
     }
 
     &__image {
@@ -11,6 +10,7 @@
         border-radius: 1rem;
         box-sizing: border-box;
         height: 222px;
+        overflow: hidden;
         width: 100%;
     }
 
