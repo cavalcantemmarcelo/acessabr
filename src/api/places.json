@@ -5,7 +5,8 @@
            "name": "Museu da Língua Portuguesa",
            "image": "/places/museu-da-lingua-portuguesa.png",
            "category": "Museu",
-           "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+           "description": "O Novo Museu da Língua Portuguesa está de volta com novas experiências.",
+           "link": "https://www.museudalinguaportuguesa.org.br/",
            "location": {
                "lat": "01234",
                "long": "4321"
@@ -20,7 +21,7 @@
                    { "item": 7, "status": true },
                    { "item": 8, "status": true },
                    { "item": 9, "status": true },
-                   { "item": 10, "status": true }
+                   { "item": 10, "status": false }
             ]
         },
         {
@@ -28,7 +29,8 @@
             "name": "Mercado Municipal" ,
             "image": "/places/marcado-municipal-sp.png",
             "category": "Mercado",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "description": "Prédio histórico com praça de alimentação e boxes que vendem diversos itens.",
+            "link": "https://portaldomercadao.com.br/",
             "location": {
                 "lat": "01234",
                 "long": "4321"
@@ -43,15 +45,16 @@
                     { "item": 7, "status": true },
                     { "item": 8, "status": true },
                     { "item": 9, "status": true },
-                    { "item": 10, "status": true }
+                    { "item": 10, "status": false }
             ]
         },
         {
             "id": 3,
-            "name": "Auditório  Ibirapuera",
+            "name": "Auditório Ibirapuera",
             "image": "/places/auditorio-ibirapuera.png",
             "category": "Teatro",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "description": "O Auditório Ibirapuera é um edifício concebido por Oscar Niemeyer para apresentações de espetáculos musicais.",
+            "link": "https://parqueibirapuera.org/equipamentos-parque-ibirapuera/auditorio-do-ibirapuera/",
             "location": {
                 "lat": "01234",
                 "long": "4321"
@@ -66,7 +69,7 @@
                     { "item": 7, "status": true },
                     { "item": 8, "status": true },
                     { "item": 9, "status": true },
-                    { "item": 10, "status": true }
+                    { "item": 10, "status": false }
             ]
         },
         {
@@ -74,7 +77,8 @@
             "name": "Museu de Artes de São Paulo",
             "image": "/places/masp.png",
             "category": "Museu",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "description": "Museu de Arte de São Paulo Assis Chateaubriand é um centro cultural e museu brasileiro.",
+            "link": "https://masp.org.br/",
             "location": {
                 "lat": "01234",
                 "long": "4321"
@@ -89,7 +93,7 @@
                     { "item": 7, "status": true },
                     { "item": 8, "status": true },
                     { "item": 9, "status": true },
-                    { "item": 10, "status": true }
+                    { "item": 10, "status": false }
             ]
         },
         {
@@ -97,7 +101,8 @@
             "name": "Parque Independência",
             "image": "/places/parque-independecia.png",
             "category": "Parque",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "description": "O Parque da Independência, inaugurado em 1989, nas margens do córrego do bairro do Ipiranga.",
+            "link": "https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/parques/regiao_sul/index.php?p=5747",
             "location": {
                 "lat": "01234",
                 "long": "4321"
@@ -112,7 +117,7 @@
                     { "item": 7, "status": true },
                     { "item": 8, "status": true },
                     { "item": 9, "status": true },
-                    { "item": 10, "status": true }
+                    { "item": 10, "status": false }
             ]
         }
         
