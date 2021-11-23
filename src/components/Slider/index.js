@@ -21,7 +21,7 @@ function Slider() {
             console.log(result)
 
             if (result.status === 200) {
-                setPlaces(result.data)
+                setPlaces(result.data.places)
             }
         }
 
