@@ -1,0 +1,126 @@
+{
+    "places": [
+        {
+           "id": 1,
+           "name": "Museu da Língua Portuguesa",
+           "image": "/places/museu-da-lingua-portuguesa.png",
+           "category": "Museu",
+           "description": "O Novo Museu da Língua Portuguesa está de volta com novas experiências.",
+           "link": "https://www.museudalinguaportuguesa.org.br/",
+           "location": {
+               "lat": "01234",
+               "long": "4321"
+           },
+           "facilities":  [
+                   { "item": 1, "status": true },
+                   { "item": 2, "status": false },
+                   { "item": 3, "status": true },
+                   { "item": 4, "status": true },
+                   { "item": 5, "status": true },
+                   { "item": 6, "status": true },
+                   { "item": 7, "status": true },
+                   { "item": 8, "status": true },
+                   { "item": 9, "status": true },
+                   { "item": 10, "status": false }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Mercado Municipal" ,
+            "image": "/places/marcado-municipal-sp.png",
+            "category": "Mercado",
+            "description": "Prédio histórico com praça de alimentação e boxes que vendem diversos itens.",
+            "link": "https://portaldomercadao.com.br/",
+            "location": {
+                "lat": "01234",
+                "long": "4321"
+            },
+            "facilities":  [
+                    { "item": 1, "status": true },
+                    { "item": 2, "status": true },
+                    { "item": 3, "status": true },
+                    { "item": 4, "status": true },
+                    { "item": 5, "status": true },
+                    { "item": 6, "status": true },
+                    { "item": 7, "status": true },
+                    { "item": 8, "status": true },
+                    { "item": 9, "status": true },
+                    { "item": 10, "status": false }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Auditório Ibirapuera",
+            "image": "/places/auditorio-ibirapuera.png",
+            "category": "Teatro",
+            "description": "O Auditório Ibirapuera é um edifício concebido por Oscar Niemeyer para apresentações de espetáculos musicais.",
+            "link": "https://parqueibirapuera.org/equipamentos-parque-ibirapuera/auditorio-do-ibirapuera/",
+            "location": {
+                "lat": "01234",
+                "long": "4321"
+            },
+            "facilities": [
+                    { "item": 1, "status": true },
+                    { "item": 2, "status": true },
+                    { "item": 3, "status": true },
+                    { "item": 4, "status": true },
+                    { "item": 5, "status": true },
+                    { "item": 6, "status": true },
+                    { "item": 7, "status": true },
+                    { "item": 8, "status": true },
+                    { "item": 9, "status": true },
+                    { "item": 10, "status": false }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Museu de Artes de São Paulo",
+            "image": "/places/masp.png",
+            "category": "Museu",
+            "description": "Museu de Arte de São Paulo Assis Chateaubriand é um centro cultural e museu brasileiro.",
+            "link": "https://masp.org.br/",
+            "location": {
+                "lat": "01234",
+                "long": "4321"
+            },
+            "facilities":  [
+                    { "item": 1, "status": true },
+                    { "item": 2, "status": true },
+                    { "item": 3, "status": true },
+                    { "item": 4, "status": true },
+                    { "item": 5, "status": true },
+                    { "item": 6, "status": true },
+                    { "item": 7, "status": true },
+                    { "item": 8, "status": true },
+                    { "item": 9, "status": true },
+                    { "item": 10, "status": false }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Parque Independência",
+            "image": "/places/parque-independecia.png",
+            "category": "Parque",
+            "description": "O Parque da Independência, inaugurado em 1989, nas margens do córrego do bairro do Ipiranga.",
+            "link": "https://www.prefeitura.sp.gov.br/cidade/secretarias/meio_ambiente/parques/regiao_sul/index.php?p=5747",
+            "location": {
+                "lat": "01234",
+                "long": "4321"
+            },
+            "facilities": [
+                    { "item": 1, "status": true },
+                    { "item": 2, "status": true },
+                    { "item": 3, "status": true },
+                    { "item": 4, "status": true },
+                    { "item": 5, "status": true },
+                    { "item": 6, "status": true },
+                    { "item": 7, "status": true },
+                    { "item": 8, "status": true },
+                    { "item": 9, "status": true },
+                    { "item": 10, "status": false }
+            ]
+        }
+        
+    ]
+
+}
