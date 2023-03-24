@@ -14,7 +14,7 @@ function CuratorItem() {
                     <h3>Marcelo Cavalcante</h3>
                     <h6>Curadoria</h6>
                 </div>
-                <p>Desenvolvedor web desde 2008, atualmente Tech Lead na Dasa e professor de Front-end na EBAC.</p>
+                <p>Engenheiro de Software e Professor de Tecnologia.</p>
             </div>
         </div>
     )

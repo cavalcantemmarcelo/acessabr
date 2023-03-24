@@ -1,3 +1,5 @@
+// organize this block of code
+
 .button {
     background-color: var(--green);
     border-radius: .5rem;
@@ -8,4 +10,15 @@
     cursor: pointer;
     font-size: 1.4rem;
     padding: .7rem 1rem;
+    text-align: center;
+    text-decoration: none;
+    transition: all .2s ease-in-out;
+
+    &:hover {
+        background-color: var(--green-hover);
+        border: 1px solid #02939C;
+        box-shadow: 1px 1px 4px rgba($color: #000000, $alpha: .2);
+        color: var(--white);
+        text-decoration: none;
+    }
 }
