@@ -9,7 +9,7 @@
            "link": "https://www.museudalinguaportuguesa.org.br/",
            "location": {
                "lat": "01234",
-               "long": "4321"
+               "long": "4322"
            },
            "facilities":  [
                    { "item": 1, "status": true },
